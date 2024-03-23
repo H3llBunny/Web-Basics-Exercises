@@ -1,0 +1,11 @@
+E:\MVS Repos\source\repos\SUS\SUS.HTTP\bin\Debug\net8.0\SUS.HTTP.deps.json
+E:\MVS Repos\source\repos\SUS\SUS.HTTP\bin\Debug\net8.0\SUS.HTTP.dll
+E:\MVS Repos\source\repos\SUS\SUS.HTTP\bin\Debug\net8.0\SUS.HTTP.pdb
+E:\MVS Repos\source\repos\SUS\SUS.HTTP\obj\Debug\net8.0\SUS.HTTP.GeneratedMSBuildEditorConfig.editorconfig
+E:\MVS Repos\source\repos\SUS\SUS.HTTP\obj\Debug\net8.0\SUS.HTTP.AssemblyInfoInputs.cache
+E:\MVS Repos\source\repos\SUS\SUS.HTTP\obj\Debug\net8.0\SUS.HTTP.AssemblyInfo.cs
+E:\MVS Repos\source\repos\SUS\SUS.HTTP\obj\Debug\net8.0\SUS.HTTP.csproj.CoreCompileInputs.cache
+E:\MVS Repos\source\repos\SUS\SUS.HTTP\obj\Debug\net8.0\SUS.HTTP.dll
+E:\MVS Repos\source\repos\SUS\SUS.HTTP\obj\Debug\net8.0\refint\SUS.HTTP.dll
+E:\MVS Repos\source\repos\SUS\SUS.HTTP\obj\Debug\net8.0\SUS.HTTP.pdb
+E:\MVS Repos\source\repos\SUS\SUS.HTTP\obj\Debug\net8.0\ref\SUS.HTTP.dll

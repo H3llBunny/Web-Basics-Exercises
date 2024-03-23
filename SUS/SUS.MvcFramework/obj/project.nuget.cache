@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "BldslEGpAGtoXxQf2fUi3QAwpfxRR3GyjpqSpYf5KMfxsqm+8kogBQtA7s8ja1n3rS2v9O/3B+S07tQSj/Pvng==",
+  "success": true,
+  "projectFilePath": "E:\\MVS Repos\\source\\repos\\SUS\\SUS.MvcFramework\\SUS.MvcFramework.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bogod\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.4\\microsoft.codeanalysis.analyzers.3.3.4.nupkg.sha512",
+    "C:\\Users\\bogod\\.nuget\\packages\\microsoft.codeanalysis.common\\4.9.2\\microsoft.codeanalysis.common.4.9.2.nupkg.sha512",
+    "C:\\Users\\bogod\\.nuget\\packages\\microsoft.codeanalysis.csharp\\4.9.2\\microsoft.codeanalysis.csharp.4.9.2.nupkg.sha512",
+    "C:\\Users\\bogod\\.nuget\\packages\\system.collections.immutable\\8.0.0\\system.collections.immutable.8.0.0.nupkg.sha512",
+    "C:\\Users\\bogod\\.nuget\\packages\\system.reflection.metadata\\8.0.0\\system.reflection.metadata.8.0.0.nupkg.sha512",
+    "C:\\Users\\bogod\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+E:\MVS Repos\source\repos\SUS\SUS.MvcFramework\bin\Debug\net8.0\SUS.MvcFramework.deps.json
+E:\MVS Repos\source\repos\SUS\SUS.MvcFramework\bin\Debug\net8.0\SUS.MvcFramework.dll
+E:\MVS Repos\source\repos\SUS\SUS.MvcFramework\bin\Debug\net8.0\SUS.MvcFramework.pdb
+E:\MVS Repos\source\repos\SUS\SUS.MvcFramework\obj\Debug\net8.0\SUS.MvcFramework.GeneratedMSBuildEditorConfig.editorconfig
+E:\MVS Repos\source\repos\SUS\SUS.MvcFramework\obj\Debug\net8.0\SUS.MvcFramework.AssemblyInfoInputs.cache
+E:\MVS Repos\source\repos\SUS\SUS.MvcFramework\obj\Debug\net8.0\SUS.MvcFramework.AssemblyInfo.cs
+E:\MVS Repos\source\repos\SUS\SUS.MvcFramework\obj\Debug\net8.0\SUS.MvcFramework.csproj.CoreCompileInputs.cache
+E:\MVS Repos\source\repos\SUS\SUS.MvcFramework\obj\Debug\net8.0\SUS.MvcFramework.dll
+E:\MVS Repos\source\repos\SUS\SUS.MvcFramework\obj\Debug\net8.0\refint\SUS.MvcFramework.dll
+E:\MVS Repos\source\repos\SUS\SUS.MvcFramework\obj\Debug\net8.0\SUS.MvcFramework.pdb
+E:\MVS Repos\source\repos\SUS\SUS.MvcFramework\obj\Debug\net8.0\ref\SUS.MvcFramework.dll
+E:\MVS Repos\source\repos\SUS\SUS.MvcFramework\bin\Debug\net8.0\SUS.HTTP.dll
+E:\MVS Repos\source\repos\SUS\SUS.MvcFramework\bin\Debug\net8.0\SUS.HTTP.pdb
+E:\MVS Repos\source\repos\SUS\SUS.MvcFramework\obj\Debug\net8.0\SUS.MvcFramework.csproj.AssemblyReference.cache
+E:\MVS Repos\source\repos\SUS\SUS.MvcFramework\obj\Debug\net8.0\SUS.MvcF.4AD4819D.Up2Date
